@@ -1,0 +1,38 @@
+footer{
+    text-align: center;
+}
+.container{
+    
+    text-align: center;
+}
+.resim{
+    display: block;
+    text-align: center;
+}
+.tablo{
+    margin: auto;
+    width: 90%;
+    text-align: start;
+    border-spacing: 2px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+.kutu1{
+    width: 37%;
+    background-color: #6ccdc3;
+    text-align: center;
+}
+.kutu2{
+background-color: #5eb0a7;
+    text-align: center;
+}
+.kutu3{
+    text-align: center;
+    background-color: #62B3AA;
+}
+.arama{
+    text-align: center;
+    background-color: gray;
+}
